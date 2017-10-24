@@ -135,32 +135,8 @@
 
 ```
 
-## Changelog
-Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
-
-## Donate
-If you find this project useful, you can buy me a cup of coffee
-![donate](https://panjiachen.github.io/donate/donation.png)
-
 ## 状态管理
 后台只有user和app配置相关状态使用vuex存在全局，其它数据都由每个业务页面自己管理。
-
-
-## 效果图
-
-#### 两步验证登录 支持微信和qq
-
-![两步验证 here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/2login.gif)
-
-#### 真正的动态换肤
-
-![真正的动态换肤](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/theme.gif)<br />
-
-#### tabs
-
-![tabs](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/tabs.gif)<br />
-
-
 
 #### 可收起侧边栏
 
@@ -186,25 +162,7 @@ If you find this project useful, you can buy me a cup of coffee
 ![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/errorlog.gif)
 
 
-#### 富文本(整合七牛 打水印等个性化功能)
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/editor.gif)
-
-#### 封装table组件
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/table.gif)
-
-#### 图表
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/echarts.gif)
-
-
-#### 导出excel
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/excel.png)
-
-
-## [查看更多demo](http://panjiachen.github.io/vue-element-admin)
+## [查看更多demo](http://github.com/webmaster444/vue-element-admin)
 
 ## License
 
